@@ -781,6 +781,8 @@ ul {
 	list-style-type: disc;
 	padding-left: 1em;
 }
+
+
 ul ul {
 	list-style-type: circle;
 }
@@ -1238,7 +1240,7 @@ select {
 }
 
 .full-width-header .description p{
-	color:white;
+	color:yellow;
 }
 
 .full-width-header .description strong{
@@ -1246,7 +1248,7 @@ select {
 }
 
 .full-width-header .description p.h3{
-	color: #E56B00;
+	color: #007;
 }
 
 .full-width-header .background{
@@ -1342,5 +1344,6 @@ footer .legal {
  text-align: center;
  margin-bottom:0;
 }
+
 
 /* End of Footer */
